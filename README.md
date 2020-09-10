@@ -1,4 +1,4 @@
-![screenshot](src/images/my-first-app.png)
+![screenshot](src/images/screenshot.png)
 
 ## Available Scripts
 
