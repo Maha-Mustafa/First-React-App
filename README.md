@@ -1,5 +1,4 @@
-![screenshot](images/my-first-app.png)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](src/images/my-first-app.png)
 
 ## Available Scripts
 
