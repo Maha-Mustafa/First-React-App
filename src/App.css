@@ -61,6 +61,43 @@
 .App {
   margin: 25px 0;
 }
+#showcase{
+  background-image: url("images/bali.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+}
+.showcase-text{
+  font-size: 50px;
+  line-height: 1.2;
+}
+#showcase p{
+  font-size: 18px;
+}
+.showcase-text{
+  color: #ffffff;
+}
+#showcase .showcase-button{
+  font-size: 18px;
+  text-decoration: none;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+#showcase .showcase-button:hover{
+  background-color: #A9AAB0;
+  color: #111828;
+}
 .info-card {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
